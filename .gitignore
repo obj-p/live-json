@@ -1,9 +1,13 @@
 # Gradle
 .gradle
+build
 
-# IDEA
+# Kotlin
+.kotlin
+
+# IntelliJ IDEA
 .idea
+.intellijPlatform
 
 # MacOS
 .DS_Store
-
