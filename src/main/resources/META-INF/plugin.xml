@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.objp.livejson</id>
-    <name>LiveJSON</name>
+    <name>Live JSON</name>
     <vendor url="https://github.com/dkandalov/live-json">Jason Prasad</vendor>
 
     <description><![CDATA[
@@ -10,7 +10,7 @@ A plugin that demonstrates KTS for creating workflows resulting in JSON.
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow id="LiveJSON" anchor="right" canCloseContents="false"
+        <toolWindow id="Live JSON" anchor="right" canCloseContents="false"
                     icon="/icons/json.svg"
                     factoryClass="com.objp.livejson.toolwindow.LiveJsonToolWindowFactory"/>
     </extensions>

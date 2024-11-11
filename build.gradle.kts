@@ -11,6 +11,7 @@ repositories {
     }
 }
 
+
 dependencies {
     intellijPlatform {
         intellijIdeaCommunity(libs.versions.idea)
